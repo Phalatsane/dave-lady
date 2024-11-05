@@ -1,0 +1,64 @@
+body{
+    background-image: url("apartment.jpg");
+}
+h1{
+    color: blue;
+}
+h2{
+    color: white;
+}
+
+h1{
+    color: rgb(54, 9, 158);
+}
+.nav{
+    display: flex;
+    gap: 20px;
+}
+.nav a{
+    border: 1px solid rgb(40, 52, 226);
+    text-decoration: none;
+    background-color:#3838f0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav a:hover{
+     background-color: rgb(48, 48, 182);
+
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.main{
+    display: flex;
+    text-align: 10px;
+    margin-bottom: 10px;
+    gap: 50px;
+    margin-left: 300px;
+}
+h1{
+    margin-left: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+.main a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    margin-left: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+    background-color: blue;
+    color: white;
+    
+}
